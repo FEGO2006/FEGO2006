@@ -1,9 +1,9 @@
 
 # Learn - Code - Repeat
 
--Learning New Stuff
--Implementing Things
--Sharing What I Know
+- Learning New Stuff
+- Implementing Things
+- Sharing What I Know
 
 # Hi, I'm Omar!
 
@@ -23,9 +23,9 @@ AWS, OpenShift, Mulesoft, LangChain, Model Context Protocol (MCP), Python, Googl
 TIBCO BW 5 and 6, TIBCO EMS, TIBCO Adapters, TIBCO Adapters SDK, TIBCO ServiceGrid, TIBCO Activespaces, TIBCO BPM, TIBCO Hawk, TIBCO Spotfire
 
 ## Certifications
--TIBCO Certified Professional for TIBCO ActiveMatrix Businessworks 5 (September 2011)
--Certified Scrum Master by ScrumAlliance (February 2012)
--SAFe for Teams Course (4.5) by Scaled Agile (April 2018)
+- TIBCO Certified Professional for TIBCO ActiveMatrix Businessworks 5 (September 2011)
+- Certified Scrum Master by ScrumAlliance (February 2012)
+- SAFe for Teams Course (4.5) by Scaled Agile (April 2018)
 
 ## Soft Skills
 Communication, Conflict Resolution, Cross-Functional Teamwork, Adaptability, Critical Thinking, Problem Solving, Business Analysis, Requirement Gathering, Process Optimization, Agile & Scrum Frameworks, Traditional SDLC, Prototyping
