@@ -16,7 +16,7 @@ Enterprise Architecture, System Design, Full Stack Web Development, Batch Proces
 ## Technologies
 Java Frameworks (Spring, Spring Boot, Hibernate, and related tools), Java APIs (JDBC, JMS, JAX‑WS, and related specifications), Database (Oracle, SQL Server, MySQL, PostgreSQL), JavaScript, HTML, Linux, Unix, Version Control (GIT, SVN), Maven, Junit, Shell Scripting
 
-## Learning
+## Upskilling
 AWS, OpenShift, Mulesoft, LangChain, Model Context Protocol (MCP), Python, Google CLI, Rust, Kafka, n8n,
 
 ## Suites
