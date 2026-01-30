@@ -17,7 +17,7 @@ Enterprise Architecture, System Design, Full Stack Web Development, Batch Proces
 Java Frameworks (Spring, Spring Boot, Hibernate, and related tools), Java APIs (JDBC, JMS, JAX‑WS, and related specifications), Database (Oracle, SQL Server, MySQL, PostgreSQL), JavaScript, HTML, Linux, Unix, Version Control (GIT, SVN), Maven, Junit, Shell Scripting
 
 ## Learning
-AWS, OpenShift, Mulesoft, LangChain, Model Context Protocol (MCP), Python, Google CLI
+AWS, OpenShift, Mulesoft, LangChain, Model Context Protocol (MCP), Python, Google CLI, Rust, Kafka, n8n,
 
 ## Suites
 TIBCO BW 5 and 6, TIBCO EMS, TIBCO Adapters, TIBCO Adapters SDK, TIBCO ServiceGrid, TIBCO Activespaces, TIBCO BPM, TIBCO Hawk, TIBCO Spotfire
